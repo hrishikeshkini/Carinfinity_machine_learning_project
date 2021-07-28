@@ -1,0 +1,1 @@
+web: gunicorn carinfinity.wsgi --log-file -
